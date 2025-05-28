@@ -1,0 +1,4 @@
+text-fabric>=10.0
+matplotlib
+pandas
+jupyter
